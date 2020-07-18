@@ -1,3 +1,2 @@
 # Zafely-Water
-Código del proyecto con IBM
-Hello.
+Código del proyecto con IBM.
